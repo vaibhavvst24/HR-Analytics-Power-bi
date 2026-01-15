@@ -46,9 +46,17 @@ The dataset includes anonymized HR data such as:
 
 # Power BI Dashboard
 ![HR-Analytics-Power-bi](HR1.png)
+
+---
 ![HR-Analytics-Power-bi](HR2.png)
+
+---
 ![HR-Analytics-Power-bi](HR3.png)
+
+---
 ![HR-Analytics-Power-bi](HR4.png)
+
+---
 ![HR-Analytics-Power-bi](HR5.png)
 
 ---
